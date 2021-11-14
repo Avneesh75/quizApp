@@ -1,0 +1,8 @@
+first insatll pillow module
+
+	pip install pillow
+
+Username/Password for admin:
+
+	Avneesh/yadav12345
+

@@ -1,0 +1,75 @@
+Which of the following is a Python tuple?
+[1, 2, 3]
+(1, 2, 3)
+{1, 2, 3}
+{}
+(1, 2, 3)
+
+Suppose t = (1, 2, 4, 3), which of the following is incorrect?
+print(t[3])
+t[3] = 45
+print(max(t))
+print(len(t))
+t[3] = 45
+
+Which of the following commands will create a list?
+list1 = list()
+list1 = []
+list1 = list([1, 2, 3])
+all of the mentioned
+all of the mentioned
+
+What is the output when we execute list(“hello”)?
+[‘h’, ‘e’, ‘l’, ‘l’, ‘o’]
+[‘hello’]
+[‘llo’]
+[‘olleh’]
+[‘h’, ‘e’, ‘l’, ‘l’, ‘o’]
+
+Which is the correct operator for power(xy)?
+X^y
+X**y
+X^^y
+None of the mentioned
+X**y
+
+Which of these in not a core data type?
+Lists
+Dictionary
+Tuples
+Class
+Class
+
+Given a function that does not return any value, What value is thrown by default when executed in shell.
+int
+bool
+void
+None
+None
+
+What is the type of each element in sys.argv?
+set
+list
+tuple
+string
+string
+
+What is the length of sys.argv?
+number of arguments
+number of arguments + 1
+number of arguments – 1
+none of the mentioned
+number of arguments + 1
+
+What is the return type of function id?
+int
+float
+bool
+dict
+int
+
+
+
+
+
+
